@@ -3,12 +3,10 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { HoliComponent } from './holi/holi.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    HoliComponent
+    AppComponent
   ],
   imports: [
     BrowserModule,
