@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-whishlist"
+    }
+  },
+  "defaultProject": "angular-whishlist",
+  "cli": {
+    "analytics": "96e40fb3-7d86-400d-a983-4a7b8dc21a21"
+  }
 }
